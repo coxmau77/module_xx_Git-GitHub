@@ -34,6 +34,8 @@ user.email=tuemail@example.com
 
 ### 🚀 **Conclusión**
 
-En este primer paso, instalaste Git y configuraste tu identidad. Puede parecer un detalle técnico, pero en realidad, es el comienzo de una nueva forma de trabajar con código: más ordenada, más segura y lista para colaborar con otros.
+En este primer paso, instalaste Git y configuraste tu identidad. 
+
+Puede parecer un detalle técnico, pero en realidad, es el comienzo de una nueva forma de trabajar con código: más ordenada, más segura y lista para colaborar con otros.
 
 Ahora que tienes las bases, en el siguiente paso aprenderás a crear tu primer repositorio local y empezar a registrar cambios como un profesional. ¡Sigamos avanzando! 💪😃
